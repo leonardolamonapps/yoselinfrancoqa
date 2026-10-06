@@ -145,7 +145,7 @@ Barra superior fija con:
 | **Inversiones desde Cero** | Curso grabado | $62 USD | · 4 módulos en video · Workbook + plantillas · Guía de inversiones: Canadá, EE.UU. y Latinoamérica · Acceso de por vida | "Comprar" → Hotmart `I107427455H` |
 | **Ahorro Inteligente** | Masterclass grabada | $17 USD | · Disponible ya, acceso inmediato · Masterclass grabada · Método simple de ahorro · Sin importar cuánto ganes hoy | "Comprar" → Hotmart `O107694194G` |
 | **Elígete** | Masterclass grabada | $17 USD | · Disponible ya, acceso inmediato · Guía + workbook incluidos · Tarjetas "Soy alguien que…" · Recursos extra | "Comprar" → Hotmart `M107826405M` |
-| **Combo Metas 2027 – 4 Masterclasses** | Combo grabado | $79 USD (antes $108) | · Incluye Sal de tus Deudas, Tu Presupuesto 2027, Crea tus Metas 2027 y Vision Board 2027 · Ahorras $29 · Todas las grabaciones · Las 4 masterclasses en vivo | "Comprar" → Hotmart `H107827023X` |
+| **Combo Metas 2027 – 4 Masterclasses** | Combo grabado | $79 USD (antes $108) | · Incluye Saldar tus Deudas, Tu Presupuesto 2027, Crea tus Metas 2027 y Vision Board 2027 · Ahorras $29 · Todas las grabaciones · Las 4 masterclasses en vivo | "Comprar" → Hotmart `H107827023X` |
 | **Talleres en Vivo** | En vivo | Desde $27 USD | · 90 min en vivo · Grabación incluida · Workbook y materiales · Preguntas en tiempo real | "Ver fechas y comprar" → abre modal |
 
 - La tarjeta "Talleres en Vivo" abre un **modal** (ventana emergente) con la programación.
@@ -159,7 +159,7 @@ Al hacer clic en "Ver fechas y comprar" se abre un modal con:
 
 | Masterclass | Fecha | Subtítulo | Link de compra |
 |---|---|---|---|
-| Sal de tus Deudas | Mié 14 oct 2026 · 7:00 PM Montreal · 90 min | Un plan claro para pagar lo que debes y recuperar tu paz financiera. Incluye la grabación. | "Comprar en Hotmart" → `F107823801K` |
+| Saldar tus Deudas | Mié 14 oct 2026 · 7:00 PM Montreal · 90 min | Un plan claro para pagar lo que debes y recuperar tu paz financiera. Incluye la grabación. | "Comprar en Hotmart" → `F107823801K` |
 | Tu Presupuesto 2027 | Mié 18 nov 2026 · 7:00 PM Montreal · 90 min | Organiza tu dinero y empieza el año sabiendo a dónde va cada dólar. Incluye la grabación. | "Comprar en Hotmart" → `H107825578L` |
 | Crea tus Metas 2027 | Mié 25 nov 2026 · 7:00 PM Montreal · 90 min | Define lo que quieres lograr y conviértelo en pasos que sí vas a cumplir. Incluye la grabación. | "Comprar en Hotmart" → `D107825979J` |
 | Vision Board 2027 | Sáb 5 dic 2026 · 11:00 AM Montreal · 90 min | Crea en vivo el tablero que te recuerde cada día la vida que estás eligiendo. Incluye la grabación. | "Comprar en Hotmart" → `R107826208N` |
@@ -242,7 +242,7 @@ Al hacer clic en "Ver fechas y comprar" se abre un modal con:
 |---|---|
 | Agendar sesión (varios) | Calendly (new-meeting-1, mentoria-1-1-financiera, paquete-3-sesiones-reinvencion, paquete-reinvencion-3-sesiones-) |
 | Cursos digitales (Hotmart) | U106706696X (Finanzas Personales), I107427455H (Inversiones), O107694194G (Ahorro Inteligente), M107826405M (Elígete), H107827023X (Combo Metas 2027) |
-| Masterclasses en vivo (Hotmart) | F107823801K (Sal de tus Deudas), H107825578L (Tu Presupuesto 2027), D107825979J (Crea tus Metas 2027), R107826208N (Vision Board 2027) |
+| Masterclasses en vivo (Hotmart) | F107823801K (Saldar tus Deudas), H107825578L (Tu Presupuesto 2027), D107825979J (Crea tus Metas 2027), R107826208N (Vision Board 2027) |
 | Instagram | instagram.com/soyyoselinfranco |
 | YouTube | youtube.com/@soyyoselinfranco |
 | Email | hola@yoselinfranco.com |
@@ -272,10 +272,11 @@ Este documento describe la versión actual de `index.html`. La landing está dis
 - **Sección 04 — Cursos y Talleres:** subtítulo → "Cursos, talleres y masterclases en vivo para reinventarte personal y financieramente".
 - **Sección 04 — Cursos y Talleres (actualización de masterclasses):**
   - La grilla pasó de 3 a **6 tarjetas**: se añadieron **Ahorro Inteligente** ($17), **Elígete** ($17) y **Combo Metas 2027 – 4 Masterclasses** ($79 en lugar de $108), todas con CTA a Hotmart y badge "Masterclass grabada" / "Combo grabado".
-  - Tarjeta "Talleres en Vivo": descripción → "Próximas masterclasses en vivo: Sal de tus Deudas, Tu Presupuesto 2027, Crea tus Metas 2027 y Vision Board 2027"; duración → "90 minutos en vivo"; CTA → "Ver fechas y comprar".
+  - Tarjeta "Talleres en Vivo": descripción → "Próximas masterclasses en vivo: Saldar tus Deudas, Tu Presupuesto 2027, Crea tus Metas 2027 y Vision Board 2027"; duración → "90 minutos en vivo"; CTA → "Ver fechas y comprar".
   - **Modal:** se eliminaron de la tabla las filas de Ahorro Inteligente y Elígete (ahora son grabadas); se actualizaron fechas, horarios, subtítulos y links de compra de las 4 masterclasses en vivo (mié 14 oct, mié 18 nov, mié 25 nov y sáb 5 dic, todas 90 min a las 7:00 PM Montreal salvo Vision Board a las 11:00 AM).
   - La columna "Palabra clave" (flujo por DM en Instagram) se reemplazó por **"Link de compra"** con botón "Comprar en Hotmart" a cada evento; el aviso del modal pasó de "Agenda tu cupo escribiendo la palabra clave…" a "Compra tu lugar directamente en Hotmart" (subtítulo y nota del modal también actualizados).
   - Nuevas claves de traducción ES / EN / FR: `mc1_*`, `mc2_*`, `combo_*`, `mc_btn`, `mc_buy`, `modal_th_link`, `ws1_*`–`ws4_*` (se eliminaron `ws5_*`, `ws6_*`, `ws*_key` y `modal_th_key`).
+  - **Renombramiento:** la masterclass "Sal de tus Deudas" pasó a llamarse **"Saldar tus Deudas"** en toda la landing (fila del modal, descripción de la tarjeta "Talleres en Vivo" y contenido del Combo Metas 2027), y en este documento (§3.7 y §5).
 - **Sección "Por qué Yoselin" (opción 03) y marquee:** "Acompañamiento en español" → "Acompañamiento **en español e inglés**" (reflejado también en las traducciones ES / EN / FR).
 - **Sección 06 — Tarjeta "Cómo funcionan las sesiones":**
   - "Disponible en Canadá, EE.UU. y Latinoamérica" → "Disponible **donde quiera que estés**".
